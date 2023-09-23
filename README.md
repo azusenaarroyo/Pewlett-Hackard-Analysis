@@ -1,4 +1,4 @@
-# Pewlett Hackard Analysis with SQL
+# Employee Database with SQL
 
 ## Overview of the Analysis
 Pewlett Hackard is preparing for the "silver tsunami" as many current employee are reaching retirement age. The upcoming retirement will leave thousands of job openings. The goal of this analysis is to determine the number of retiring employees per title, and identify the employees who are eligible to participate in a mentorship program.
